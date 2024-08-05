@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>032.jpg</filename>
+	<path>D:\yolo_object_detection\Notes\1_datapreparation\data_images\032.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>537</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>181</ymin>
+			<xmax>665</xmax>
+			<ymax>443</ymax>
+		</bndbox>
+	</object>
+</annotation>
